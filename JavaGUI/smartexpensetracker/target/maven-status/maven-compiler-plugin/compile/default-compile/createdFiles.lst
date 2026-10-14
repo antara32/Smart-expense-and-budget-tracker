@@ -1,0 +1,12 @@
+com\smartexpense\BudgetDAO.class
+com\smartexpense\Transaction.class
+com\smartexpense\LoginGUI.class
+com\smartexpense\TransactionDAO.class
+com\smartexpense\DashboardGUI$1.class
+com\smartexpense\DashboardGUI.class
+com\smartexpense\DBConnection.class
+com\smartexpense\Main.class
+com\smartexpense\UserDAO.class
+com\smartexpense\RegisterGUI.class
+com\smartexpense\DashboardGUI$2.class
+com\smartexpense\User.class
